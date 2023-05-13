@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+}
+.box {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    transition: all 0.07s linear 0s;
+}
